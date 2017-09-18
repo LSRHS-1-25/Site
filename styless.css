@@ -1,0 +1,15 @@
+body {
+  background-color: violet;
+  color:black;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+a:visited {
+  color: purple;
+}
