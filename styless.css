@@ -13,3 +13,8 @@ h1 {
 a:visited {
   color: purple;
 }
+td{
+  width:400px;
+  height:200px;
+  border:1px solid black;
+}

@@ -1,0 +1,20 @@
+body {
+  background-color: violet;
+  color:black;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+a:visited {
+  color: purple;
+}
+td{
+  width:400px;
+  height:200px;
+  border:1px solid black;
+}
