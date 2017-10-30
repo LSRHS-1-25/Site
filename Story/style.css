@@ -1,0 +1,16 @@
+h1 {
+  color: violet;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: purple;
+  color: black;
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+td{
+  width:400px;
+  height:200px;
+  border:1px solid black;
+}
