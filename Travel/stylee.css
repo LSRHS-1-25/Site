@@ -1,0 +1,40 @@
+h1 {
+  color: black;
+  font-family: 'Old Standard TT', serif;
+  text-align: center;
+  border: 1px solid black;
+  width: 610px;
+  height: 50px;
+  margin: 5px;
+}
+
+body {
+  background-color: blue;
+  color: black;
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px
+}
+#Miami {
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    float: left;
+    margin: 5px;
+}
+#Beach {
+    width: 250px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 5px;
+    float: left;
+}
+#Florida {
+    width: 610px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 5px;
+    clear: both;
+}
+a:visited {
+  color: black;
+}

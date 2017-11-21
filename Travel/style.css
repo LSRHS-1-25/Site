@@ -1,0 +1,21 @@
+#Green {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    float: left;
+    margin: 5px;
+}
+#Red {
+    width: 100px;
+    height: 200px;
+    border: 1px solid red;
+    margin: 5px;
+    float: left;
+}
+#Blue {
+    width: 310px;
+    height: 100px;
+    border: 1px solid blue;
+    margin: 5px;
+    clear: both;
+}
